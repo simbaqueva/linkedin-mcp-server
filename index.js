@@ -70,6 +70,7 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
                                                                                 text: text,
                                                               },
                                                               shareMediaCategory: "NONE",
+                                                  
                                               },
                                 },
                                 visibility: {
